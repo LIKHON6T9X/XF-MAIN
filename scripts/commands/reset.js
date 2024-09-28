@@ -2,7 +2,7 @@ const fs = require("fs");
 module.exports.config = {
   name: "reset",
   version: "2.0.0",
-  permission: 0,
+  permission: 2,
   credits: "nayan",
   description: "",
   prefix: false,
