@@ -2,7 +2,7 @@ const fs = require("fs");
 module.exports.config = {
   name: "info2",
   version: "2.0.0",
-  permission: 2,
+  permission: 0,
   credits: "nayan",
   description: "",
   prefix: false,
