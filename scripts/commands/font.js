@@ -128,7 +128,7 @@ module.exports.run = async ({ event, api, args }) => {
 
   if (args.length === 0) {
     return api.sendMessage(
-      '•┄┅════❁🌺❁════┅┄•\n\nআসসালামু আলাইকুম-!!🖤💫\nইংলিশ Stylish Font ব্যবহার করার জন্য Font command ব্যবহার করুন উদাহরণ 𝐟𝐨𝐧𝐭 𝐚 𝐚𝐬𝐬𝐚𝐥𝐚𝐦𝐮 𝐚𝐥𝐚𝐢𝐤𝐮𝐦 এমন ভাবে কমান্ড দিয়ে ব্যবহার করুন\n\n 𝐟𝐨𝐧𝐭 𝐥𝐢𝐬𝐭 : 𝐚-𝐢\n\n•┄┅════❁🌺❁════┅┄•',
+      '╭───────────╮\n│	   𝙵𝙾𝙽𝚃  🩵🪽        \n╰───────────╯\n➤𝗘 𝗫 𝗔 𝗠 𝗣 𝗟 𝗘  -  ❯❯\n\n⦿font a 𝓛𝓘𝓚𝓗𝓞𝓝  𝓐𝓗𝓜𝓔𝓓\n\n⦿font b 𝕃𝕀𝕂ℍ𝕆ℕ 𝟜𝟘𝟜\n\n⦿font c 𝗟𝗜𝗞𝗛𝗢𝗡 𝗔𝗛𝗠𝗘𝗗\n\n⦿font d 𝑳𝑰𝑲𝑯𝑶𝑵 𝑨𝑯𝑴𝑬𝑫\n\n⦿font e 𝔏ℑ𝔎ℌ𝔒𝔑 𝔄ℌ𝔐𝔈𝔇\n\n⦿font f ʟɪᴋʜᴏɴ ᴀʜᴍᴇᴅ\n\n⦿font g 🅻🅸🅺🅷🅾🅽 🅰🅷🅼🅴🅳\n\n⦿font h 🅛🅘🅚🅗🅞🅝 ❹⓿❹\n\n⦿font i 𝐋𝐈𝐊𝐇𝐎𝐍 𝟒𝟎𝟒',
       event.threadID,
       event.messageID
     );
