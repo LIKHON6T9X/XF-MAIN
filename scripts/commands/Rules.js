@@ -1,6 +1,6 @@
 module.exports.config = {
   name: "Rules",
-  version: "1.0.0",
+  version: "2.0.0",
   Permssion: 0,
   credits: "Islamick Chat",
   prefix:false,
