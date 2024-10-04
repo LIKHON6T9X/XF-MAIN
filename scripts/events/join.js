@@ -160,7 +160,7 @@ https://www.facebook.com/www.xnxx.com169
         ctx.restore();
         const imageBuffer = canvas.toBuffer();
         fs.writeFileSync(pathImg, imageBuffer);
-        abx.push(fs.createReadStream(__dirname + `/Nayan/join/${o}.png`))
+        abx.push(fs.createReadStream(__dirname + `/Nayan/FB_IMG_17280168991441238.jpg/${o}.png`))
       }
       memLength.sort((a, b) => a - b);
       (typeof threadData.customJoin == "undefined") ? msg = `Hello {name}\nWelcome to {threadName}\nyou're the {soThanhVien}th member on this group please enjoy"\n─────────────────\n[ {time} - {thu} ]` : msg = threadData.customJoin;
