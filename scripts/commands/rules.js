@@ -3,7 +3,7 @@ module.exports.config = {
   version: "1.0.0",
   Permssion: 0,
   credits: "Islamick Chat",
-  prefix:false,
+  prefix:ture,
   description: "important notes",
   category: "random-img",
   usages: "send message",
