@@ -1,12 +1,12 @@
 module.exports.config = {
-  name: "rules",
+  name: "Rules",
   version: "1.0.0",
   Permssion: 0,
   credits: "Islamick Chat",
-  prefix:ture,
+  prefix:false,
   description: "important notes",
-  category: "random-img",
-  usages: "send message",
+  category: " ",
+  usages: " ",
   cooldowns: 5,
   dependencies: {
       "request": "",
