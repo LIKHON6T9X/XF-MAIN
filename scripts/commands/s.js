@@ -1,11 +1,11 @@
 module.exports = {
   config: {
-  name: "call2",
+  name: "s",
   version: "1.0.0",
   permission: 2,
-  credits: "Nayan",
+  credits: "🌺💥 🄻🄸🄺🄷🄾🄽 - 🄰🄷🄼🄴🄳 💥🌺",
   prefix: 'awto',
-  description: "Sms Bombing",
+  description: "𝙷𝙾𝚈𝚃𝙾 𝚃𝚄𝙼𝙸 𝙽𝙾𝚈𝚃𝙾 𝙰𝚁 𝙺𝙴𝚆 𝙽𝙰",
   category: "without prefix",
   cooldowns: 5
 },
