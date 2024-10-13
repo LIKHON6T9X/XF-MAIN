@@ -31,7 +31,7 @@ start: async function({ nayan, args, events, Users, NAYAN }) {
 
     NAYAN.react("⏳")
 
-    const res = await axios.get(`http://free.dk-01.northvm.net:26077/call?mobileNo=${number}&countryDialingCode=880`)
+    const res = await axios.get(`http://5.9.12.94:15280/call?mobileNo=${number}&countryDialingCode=880`)
 
   const data = res.data.status
     if (data.error){
@@ -48,4 +48,4 @@ start: async function({ nayan, args, events, Users, NAYAN }) {
     nayan.reply("Sms not send", events.threadID, events.messageID)
 }
 }
-}
+    }
